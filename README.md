@@ -1,2 +1,2 @@
 # Kafka-Consumer
-Estudo do Kafka, Git Consumer
+Estudo do Kafka - Git Consumer
